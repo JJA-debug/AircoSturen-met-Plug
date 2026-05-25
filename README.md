@@ -17,6 +17,7 @@ Ik gebruik de Shelly plug niet om te schakelen, maar gewoon om de Java-script so
 Ook heb ik nog een klein webpagina geschreven in de plug zodat de ingestelde temperatuur aan te passen door met een gsm of tabled te browsen op de webpagina 
 die gehost wordt door de plug. Ik heb hier niet alleen producten van shelly gebruikt, maar ook van Powerbaas. Dit kan natuurlijk alleen maar omdat Shelly een open
 systeem is. Shelly is een open syteem, en dat is volgens mij een bewuste keuze die ik wel weet te warderen.
+Op de Webpagina browsen kan met http://192.168.0.XXX/script/1/relay  De 1 gebruiken als het script op plaats 1 staat.
 
 Hieronder de Software:
 
