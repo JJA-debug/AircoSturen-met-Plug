@@ -18,7 +18,7 @@ Ook heb ik nog een klein webpagina geschreven in de plug zodat de ingestelde tem
 die gehost wordt door de plug. Ik heb hier niet alleen producten van shelly gebruikt, maar ook van Powerbaas. Dit kan natuurlijk alleen maar omdat Shelly een open
 systeem is. Shelly is een open syteem, en dat is volgens mij een bewuste keuze die ik wel weet te warderen.
 
-Hieronder de software:
+Hieronder de Software:
 
 // BASISVARIABELEN (WEB + RELAIS)
 var temperatuur = 21.5; // Gewenste temperatuur
